@@ -1,4 +1,4 @@
->📋 This module provides functions for suggesting corrections for misspelled words based on the minimum number of edits required to transform the misspelled word into a valid word from the vocabulary.
+>📋 This system provides functions for suggesting corrections for misspelled words based on the minimum number of edits required to transform the misspelled word into a valid word from the vocabulary.
 
 # Autocorrect system using Min Weighted Distnce and Min Edit Distance
 
