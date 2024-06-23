@@ -119,4 +119,6 @@ To run program:
 ```setup
 python main.py
 ```
+![image](https://github.com/TrishamBP/autocorrect-nlp-python/assets/91331117/bfc5156a-3c41-45b7-a99c-3e19f2361140)
+
 
