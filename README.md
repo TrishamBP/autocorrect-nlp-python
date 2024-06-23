@@ -107,11 +107,16 @@ The system is implemented in Python, leveraging the NumPy library for efficient 
 
 The system demonstrates effective correction suggestions for a wide range of misspelled words, successfully balancing edit distance considerations with word probabilities. The inclusion of two-edit distance calculations allows for catching more complex misspellings, while the probabilistic approach helps prioritize more likely corrections.
 
-## Requirements
+## 5. Requirements
 
 To install requirements:
 
 ```setup
 pip install -r requirements.txt
+```
+To run program:
+
+```setup
+python main.py
 ```
 
